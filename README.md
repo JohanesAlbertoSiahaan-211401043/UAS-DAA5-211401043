@@ -18,3 +18,6 @@ PUSH CODINGAN DI GITHUB
 
 FORMAT REPOSITORY UAS_DAA6_NIM
 
+### Nama  : Johanes Alberto Siahaan
+### NIM   : 211401043
+### Lab   : 5
